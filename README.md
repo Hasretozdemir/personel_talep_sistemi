@@ -275,9 +275,9 @@ Kullanıcı Adı: admin
 - 🎨 Renk kodlu butonlar (yeşil onay, kırmızı red)
 - ✨ Backdrop blur ile modal tasarım
 
-![Talep Yönetimi - Onay](screenshots/onayetkinamıyız.png)
+![Talep Yönetimi - Onay](screenshots/onay.png)
 
-![Talep Yönetimi - Red](screenshots/reddekitaü.png)
+![Talep Yönetimi - Red](screenshots/red.png)
 
 ---
 
@@ -317,7 +317,7 @@ Kullanıcı Adı: admin
 - 🎯 Kompakt ve etkili tablo
 - 🔍 Arama ve filtreleme araç çubuğu
 - 📊 Export seçenekleri
-![Geçmiş ve Raporlama](screenshots/gecmis.png)
+![Geçmiş ve Raporlama](screenshots/geçmiş.png)
 ---
 
 #### 👥 **Personel Yönetimi Sayfası**
@@ -360,9 +360,9 @@ Kullanıcı Adı: admin
 - 🎨 Tablo halinde liste
 - ➕ Hızlı ekleme butonu
 - ✨ Modal form
-![Personel Yönetimi](screenshots/personal.png)
+![Personel Yönetimi](screenshots/personel.png)
 
-![Personel Düzenleme](screenshots/personeldeğerme.png)
+![Personel Düzenleme](screenshots/personelekleme.png)
 ---
 
 #### 🏢 **Birim Yönetimi Sayfası**
@@ -377,7 +377,8 @@ Kullanıcı Adı: admin
 - ❌ **Silme**: Birim silme (onay ile)
 - 🔍 **Birim Sayısı**: Aktif birim sayısı gösterimi
 
-![Birim Yönetimi](screenshots/birimler.png)
+
+![Birim Ekle](screenshots/birimekle.png)
 
 ---
 
@@ -393,7 +394,8 @@ Kullanıcı Adı: admin
 - ❌ **Silme**: Sistem silme
 - 🔢 **Talep Sayacı**: Her sistemin kaç talep aldığı
 
-![Sistem Yönetimi](screenshots/yetkikildi.png)
+![Sistem Yönetimi](screenshots/yetkili.png)
+![Sistem Yönetimi](screenshots/yetkiliekle.png)
 
 ---
 
