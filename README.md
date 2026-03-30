@@ -156,6 +156,8 @@ http://127.0.0.1:9000
 
 ![Personel Talep Formu](screenshots/talep.png)
 
+![Personel Talep Formu](screenshots/talep2.png)
+
 ---
 
 #### 2️⃣ **Talep Sorgulama Sayfası**
@@ -317,7 +319,7 @@ Kullanıcı Adı: admin
 - 🎯 Kompakt ve etkili tablo
 - 🔍 Arama ve filtreleme araç çubuğu
 - 📊 Export seçenekleri
-![Geçmiş ve Raporlama](screenshots/geçmiş.png)
+![Geçmiş ve Raporlama](screenshots/gecmis.png)
 ---
 
 #### 👥 **Personel Yönetimi Sayfası**
