@@ -696,17 +696,13 @@ Projede hata bulduysanız veya öneriniz varsa:
 
 ---
 
-## 📄 Lisans
 
-Bu proje **MIT Lisansı** altında yayınlanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
-
----
 
 ## 📧 İletişim
-
-**Proje Yöneticisi**: Gazi Üniversitesi BİT Daire Başkanlığı
-
+ 
+ Hasret Özdemir
 Sorularınız veya önerileriniz için iletişime geçebilirsiniz.
+
 
 ---
 
@@ -763,24 +759,3 @@ Bu sistem aşağıdaki konuları öğrenmeye yardımcı olur:
 
 ---
 
-## 📞 Destek ve Hata Raporu
-
-Sistem hakkında sorunlar veya öneriler için:
-
-1. **Hata**: `SISTEM_DURUMU.md` ve `SORUN_GIDERME.md` dosyalarını kontrol edin
-2. **Eğitim**: `KULLANIM_KILAVUZU.md` dosyasını okuyun
-3. **Tasarım**: `TASARIM_NOTLARI.md` dosyasını inceyin
-
----
-
-## ✨ Teşekkürler
-
-Bu proje aşağıdaki açık kaynak projelerden yararlanmaktadır:
-- **Bootstrap**: Responsive framework
-- **PostgreSQL**: Açık kaynak veritabanı
-- **PHP**: Açık kaynak backend dili
-- **Bootstrap Icons**: Ikon seti
-
----
-
-**Hoşça kalın! Sistem kullanımı sırasında herhangi bir sorununuz olursa lütfen iletişime geçiniz.** 🚀
